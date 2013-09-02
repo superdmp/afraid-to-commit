@@ -85,4 +85,4 @@ Some suitable Django Project tickets
 
 Or have a look at one of these:
 
-*	https://code.djangoproject.com/query?owner=~EvilDMP&status=assigned&status=new&easy=1&stage=Accepted&desc=1
+*	https://code.djangoproject.com/query?keywords=~afraid-to-commit
